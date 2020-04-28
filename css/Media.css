@@ -1,0 +1,95 @@
+/*Meida query */
+/*From zero to mobile */
+@media(max-width: 767px){
+.bgcontent{
+	 width: 450px;
+	 
+}
+.fsize {
+
+font-size:35px;
+
+}
+.fab1{
+		width: 45px;
+ 	height: 45px;
+}
+.aboutme{
+ width: 400px;
+ margin-left:40px;
+
+}
+.bgabout1{
+	left:52px;
+
+}
+.bgabout2{
+	width: 390px;
+
+}
+.lead{
+	font-size: 16px;
+}
+
+.bgcontent2{
+	margin-left: 15px;
+	height: 498px;
+
+
+}
+.bg-Resume{
+	height: 120vh;
+
+}
+
+
+h3{
+	font-size:25px;
+}
+h5{
+   font-size:20px;
+}
+h1{
+	font-size:30px;
+}
+.fa-3x {
+    font-size: 2em;
+}
+.skillsbg {
+	height: 110vh;
+}
+
+.anotherbg{
+	height: 150vh;
+
+
+ }
+.skills{
+    font-size: 20px;
+    margin-left: -230px;
+ }
+ p{
+ 	font-size: 15px;
+ }
+
+
+}
+
+
+
+/*from small to medium*/
+@media(min-width: 768px)and(max-width: 991px){
+
+
+
+
+
+
+
+}
+
+
+/*from medium to large*/
+@media(min-width: 992px)and(max-width: 1199px){
+
+}
