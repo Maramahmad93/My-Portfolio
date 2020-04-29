@@ -1,3 +1,7 @@
+body{
+  overflow-x: hidden;
+}
+
 	/*Padding and Margin*/
 .my-5
 .py-5{
